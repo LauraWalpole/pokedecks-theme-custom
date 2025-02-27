@@ -1,0 +1,252 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "collection_list_btpydq": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_U6Ayfy": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "crown-zenith"
+          }
+        },
+        "featured_collection_b9QWmb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "prismatic-evolution"
+          }
+        },
+        "featured_collection_MWWgxw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "surging-sparks"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_U6Ayfy",
+        "featured_collection_b9QWmb",
+        "featured_collection_MWWgxw"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_WYKjiY": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_igMgGt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stellar-crown"
+          }
+        },
+        "featured_collection_YJEmEe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shrouded-fable"
+          }
+        },
+        "featured_collection_9Ghqrx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "twilight-masquerade"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_igMgGt",
+        "featured_collection_YJEmEe",
+        "featured_collection_9Ghqrx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_TQKVgL": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_NUx39F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "temporal-forces"
+          }
+        },
+        "featured_collection_3pNUVf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paldean-fates"
+          }
+        },
+        "featured_collection_QMEgQM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paradox-rift"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_NUx39F",
+        "featured_collection_3pNUVf",
+        "featured_collection_QMEgQM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_x6TPmy": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_FnK3NR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "151"
+          }
+        },
+        "featured_collection_xEp9cQ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "obsidian-flames"
+          }
+        },
+        "featured_collection_MPtpBx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paldea-evolved"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_FnK3NR",
+        "featured_collection_xEp9cQ",
+        "featured_collection_MPtpBx"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    },
+    "collection_list_TNBP6G": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_DYEMCe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scarlet-violet-1"
+          }
+        },
+        "featured_collection_tfGGRG": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_PHPKG8": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_DYEMCe",
+        "featured_collection_tfGGRG",
+        "featured_collection_PHPKG8"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "collection_list_btpydq",
+    "collection_list_WYKjiY",
+    "collection_list_TQKVgL",
+    "collection_list_x6TPmy",
+    "main-collection-product-grid",
+    "collection_list_TNBP6G"
+  ]
+}

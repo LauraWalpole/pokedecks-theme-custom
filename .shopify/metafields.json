@@ -1,0 +1,257 @@
+{
+  "article": [],
+  "blog": [],
+  "brand": [],
+  "collection": [
+    {
+      "key": "type",
+      "namespace": "custom",
+      "name": "type",
+      "description": "The type of collection",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "era",
+      "namespace": "custom",
+      "name": "era",
+      "description": "The parent era of a Pokémon TCG expansion",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "expansion_type",
+      "namespace": "custom",
+      "name": "expansion_type",
+      "description": "Describes whether a collection is considered a core set or special set",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    }
+  ],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "queries",
+      "namespace": "shopify--discovery--product_search_boost",
+      "name": "Search product boosts",
+      "description": "List of search queries for which a product gets higher rank in search results",
+      "type": {
+        "name": "list.single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "related_products",
+      "namespace": "shopify--discovery--product_recommendation",
+      "name": "Related products",
+      "description": "List of related products",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "related_products_display",
+      "namespace": "shopify--discovery--product_recommendation",
+      "name": "Related products settings",
+      "description": "Determines how related products are displayed along with algorithmic product recommendations",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "complementary_products",
+      "namespace": "shopify--discovery--product_recommendation",
+      "name": "Complementary products",
+      "description": "List of complementary products",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "color-pattern",
+      "namespace": "shopify",
+      "name": "Color",
+      "description": "Defines the primary color or pattern, such as blue or striped",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "theme",
+      "namespace": "shopify",
+      "name": "Theme",
+      "description": "Describes the product's primary theme or motif, such as sport, space, or holidays",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "recommended-age-group",
+      "namespace": "shopify",
+      "name": "Recommended age group",
+      "description": "Identifies the suitable age range for a product, typically toys and games; e.g. babies, teens",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "toy-game-material",
+      "namespace": "shopify",
+      "name": "Toy/Game material",
+      "description": "Identifies the main material used in a toy or game, such as plastic or wood",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "card-attributes",
+      "namespace": "shopify",
+      "name": "Card attributes",
+      "description": "Describes special features of collectible trading cards, like foil or holographic",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "rarity",
+      "namespace": "shopify",
+      "name": "Rarity",
+      "description": "Specifies the uniqueness of items, typically for collectibles; e.g. limited edition, ultra rare",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "trading-card-packaging",
+      "namespace": "shopify",
+      "name": "Trading card packaging",
+      "description": "Identifies how trading cards are packaged, such as blister pack or booster pack",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "booster_pack_selection",
+      "namespace": "custom",
+      "name": "booster_pack_selection",
+      "description": "A list describing the booster pack types in the product",
+      "type": {
+        "name": "list.single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "pack_count",
+      "namespace": "custom",
+      "name": "booster_pack_count",
+      "description": "Quantity of booster packs in a product",
+      "type": {
+        "name": "number_decimal",
+        "category": "NUMBER"
+      }
+    },
+    {
+      "key": "rrp",
+      "namespace": "custom",
+      "name": "rrp",
+      "description": "Recommended retail price",
+      "type": {
+        "name": "money",
+        "category": "MONEY"
+      }
+    },
+    {
+      "key": "is_preorder",
+      "namespace": "custom",
+      "name": "is_preorder",
+      "description": "Defines whether a product is a pre-order ",
+      "type": {
+        "name": "boolean",
+        "category": "TRUE_FALSE"
+      }
+    },
+    {
+      "key": "preorder_estimated_shipping_date",
+      "namespace": "custom",
+      "name": "preorder_estimated_date",
+      "description": "Estimated shipping date for pre-order items",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
+    },
+    {
+      "key": "is_restock",
+      "namespace": "custom",
+      "name": "is_restock",
+      "description": "Defines whether an out of stock product has an upcoming restock",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
+    },
+    {
+      "key": "restock_estimated_arrival_date",
+      "namespace": "custom",
+      "name": "restock_estimated_arrival_date",
+      "description": "The date that restock products are estimated to arrive with the business",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
+    },
+    {
+      "key": "is_delayed",
+      "namespace": "custom",
+      "name": "is_delayed",
+      "description": "Defines whether a product is expected to arrive after the advertised release date",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
+    },
+    {
+      "key": "delay_estimated_arrival",
+      "namespace": "custom",
+      "name": "delay_estimated_arrival",
+      "description": "The date which delayed stock is expected to arrive with the business",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
+    },
+    {
+      "key": "delay_reason",
+      "namespace": "custom",
+      "name": "delay_reason",
+      "description": "A brief customer-friendly description of the reason for stock delays",
+      "type": {
+        "name": "multi_line_text_field",
+        "category": "TEXT"
+      }
+    }
+  ],
+  "variant": [],
+  "shop": []
+}

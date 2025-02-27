@@ -1,0 +1,166 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CMdPtU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_txVTCe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Iono's Bellibolt ex Premium Collection",
+            "heading_size": "h1"
+          }
+        },
+        "text_Y6K4bC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Release date: DD/MM/YYYY</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_rpGMGn": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Product",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_txVTCe",
+        "text_Y6K4bC",
+        "button_rpGMGn"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BoxedCollection-IonosBellibot.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_nc8V8K": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_PVG9Ut": {
+          "type": "heading",
+          "settings": {
+            "heading": "Charizard ex Special Collection",
+            "heading_size": "h1"
+          }
+        },
+        "text_xL4C8b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Release Date: </p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_FcVCMU": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Product",
+            "button_link": "shopify://collections/swsh5-battle-styles",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PVG9Ut",
+        "text_xL4C8b",
+        "button_FcVCMU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BoxedCollection-CharizardExSpecialCollection.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_3p3MRb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RhXiaT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_TDMp8N": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_ex4kc7": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RhXiaT",
+        "text_TDMp8N",
+        "button_ex4kc7"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_CMdPtU",
+    "image_with_text_nc8V8K",
+    "image_with_text_3p3MRb"
+  ]
+}

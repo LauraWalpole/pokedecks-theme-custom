@@ -1,0 +1,268 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_848E4Y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6ywNzH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pokémon TCG Sword & Shield Core Sets",
+            "heading_size": "h1"
+          }
+        },
+        "text_C8rcri": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover powerful Pokémon V, VMAX and VSTAR</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6ywNzH",
+        "text_C8rcri"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-bc9e42b9-b573-4ca7-91f8-7a3c12840869",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_btpydq": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_b9QWmb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "silver-tempest"
+          }
+        },
+        "featured_collection_MWWgxw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lost-origin"
+          }
+        },
+        "featured_collection_6CFDrc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "astral-radiance"
+          }
+        },
+        "featured_collection_DeL8Ck": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brilliant-stars"
+          }
+        },
+        "featured_collection_6takpF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fusion-strike"
+          }
+        },
+        "featured_collection_EP8YRY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh7-evolving-skies"
+          }
+        },
+        "featured_collection_p3maUJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh6-chilling-reign"
+          }
+        },
+        "featured_collection_TLrnyf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh5-battle-styles"
+          }
+        },
+        "featured_collection_kaJgdd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh4-vivid-voltage"
+          }
+        },
+        "featured_collection_pDtrQE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh3-darkness-ablaze"
+          }
+        },
+        "featured_collection_DcQMML": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh2-rebel-clash"
+          }
+        },
+        "featured_collection_rLiRwK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh1-scarlet-violet"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_b9QWmb",
+        "featured_collection_MWWgxw",
+        "featured_collection_6CFDrc",
+        "featured_collection_DeL8Ck",
+        "featured_collection_6takpF",
+        "featured_collection_EP8YRY",
+        "featured_collection_p3maUJ",
+        "featured_collection_TLrnyf",
+        "featured_collection_kaJgdd",
+        "featured_collection_pDtrQE",
+        "featured_collection_DcQMML",
+        "featured_collection_rLiRwK"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_HVYRLr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RQHDbn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pokémon TCG Sword & Shield Special Sets",
+            "heading_size": "h1"
+          }
+        },
+        "text_8jfgxH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dive into exclusive Sword & Shield Special collections. From eye-catching alternative arts to rare VSTAR cards, each set features a unique theme.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_RQHDbn",
+        "text_8jfgxH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-bc9e42b9-b573-4ca7-91f8-7a3c12840869",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_bhHwTm": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_rzKire": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "crown-zenith"
+          }
+        },
+        "featured_collection_GMdCm3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pokemon-go"
+          }
+        },
+        "featured_collection_dtNrMe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "celebrations"
+          }
+        },
+        "featured_collection_TqF7K7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh4-5-shining-fates"
+          }
+        },
+        "featured_collection_L3ew4F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swsh3-5-champions-path"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_rzKire",
+        "featured_collection_GMdCm3",
+        "featured_collection_dtNrMe",
+        "featured_collection_TqF7K7",
+        "featured_collection_L3ew4F"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "rich_text_848E4Y",
+    "collection_list_btpydq",
+    "rich_text_HVYRLr",
+    "collection_list_bhHwTm",
+    "main-collection-banner",
+    "main-collection-product-grid"
+  ]
+}

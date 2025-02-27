@@ -1,0 +1,240 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "rich_text_W7W74n": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hEhRnm": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pokémon TCG: Scarlet & Violet Core Sets",
+            "heading_size": "h1"
+          }
+        },
+        "text_Cy8RTf": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Step into the Scarlet & Violet era with the mainline expansions! </h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hEhRnm",
+        "text_Cy8RTf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-bc9e42b9-b573-4ca7-91f8-7a3c12840869",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_btpydq": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_b9QWmb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sv9-journey-together"
+          }
+        },
+        "featured_collection_MWWgxw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "surging-sparks"
+          }
+        },
+        "featured_collection_6CFDrc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stellar-crown"
+          }
+        },
+        "featured_collection_DeL8Ck": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "twilight-masquerade"
+          }
+        },
+        "featured_collection_6takpF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "temporal-forces"
+          }
+        },
+        "featured_collection_EP8YRY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paradox-rift"
+          }
+        },
+        "featured_collection_p3maUJ": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "obsidian-flames"
+          }
+        },
+        "featured_collection_TLrnyf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paldea-evolved"
+          }
+        },
+        "featured_collection_kaJgdd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "scarlet-violet"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_b9QWmb",
+        "featured_collection_MWWgxw",
+        "featured_collection_6CFDrc",
+        "featured_collection_DeL8Ck",
+        "featured_collection_6takpF",
+        "featured_collection_EP8YRY",
+        "featured_collection_p3maUJ",
+        "featured_collection_TLrnyf",
+        "featured_collection_kaJgdd"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_xyGFXj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HNfCHF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pokémon TCG Scarlet & Violet Special Sets",
+            "heading_size": "h1"
+          }
+        },
+        "text_REMxd6": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Explore unique themes and stunning chase cards in special Scarlet & Violet releases!</h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HNfCHF",
+        "text_REMxd6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-bc9e42b9-b573-4ca7-91f8-7a3c12840869",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collection_list_bhHwTm": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_rzKire": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "prismatic-evolution"
+          }
+        },
+        "featured_collection_GMdCm3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shrouded-fable"
+          }
+        },
+        "featured_collection_dtNrMe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paldean-fates"
+          }
+        },
+        "featured_collection_TqF7K7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "151"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_rzKire",
+        "featured_collection_GMdCm3",
+        "featured_collection_dtNrMe",
+        "featured_collection_TqF7K7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "rich_text_W7W74n",
+    "collection_list_btpydq",
+    "rich_text_xyGFXj",
+    "collection_list_bhHwTm",
+    "main-collection-product-grid"
+  ]
+}
