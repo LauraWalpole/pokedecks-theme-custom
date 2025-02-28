@@ -1,0 +1,54 @@
+{% liquid
+    assign expansions = metaobjects.tcg_expansions_pkmn.values
+  %}
+  
+  <style>
+  
+  .expansion-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+    .expansion-card {
+      border-radius: 20px;
+      margin: 20px;
+      padding: 15px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease-in-out;
+        
+    }
+  
+      .expansion-card:hover {
+      transform: translateY(-5px);
+      background: #ffffff;
+    }
+  
+  
+  
+  </style>
+  
+  <div class="expansion-grid">
+    {% for expansion in expansions %}
+      {%  if expansion.series == "Scarlet & Violet" %}
+        <h2>{{ expansion.name }}</h2>
+        <div class="expansion-card">
+          <img 
+            src= "{{ expansion.logo | image_url: width: '500', height: '500' }}"
+            width="500"
+            height="500"
+            >
+          <h3>{{ expansion.expansion_name }}</h3>
+          <p>Series: {{ expansion.series }}</p>
+          <p>Release Date: {{ expansion.release_date | date: "%d %B %Y" }}</p>
+          <p>Cards in set: {{ expansion.total_cards }}</p>
+          <a href="/collections/{{ expansion.expansion_name | handle }}" class="button">View Expansion</a>
+        </div>
+        {% endif %}
+    {% endfor %}
+  </div>
+  
